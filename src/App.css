@@ -23,7 +23,23 @@
 .App-link {
   color: #61dafb;
 }
-
+.nav-ul li a{
+  color: yellowgreen;
+    padding: inherit;
+    text-decoration: none;
+}
+.nav-ul{
+  padding: 5px;
+    margin: 0;
+    background-color: coral;
+}
+.footer{
+  position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: sienna;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
