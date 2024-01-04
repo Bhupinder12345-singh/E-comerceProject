@@ -1,2 +1,2 @@
-# E-coomerceProject
+# E-comerceProject
 Node JS project
