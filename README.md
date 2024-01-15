@@ -1,4 +1,4 @@
-# E-comerceProject
+# E-commerceProject
 Node JS project
 # Getting Started with Create React App
 
